@@ -1,0 +1,6 @@
+git clone: Hace un repositorio igual o lo copia de la URL que estás utilizando
+git push: Comando que te pide tus datos para realizar otra acción
+git pull: Tieness que hacer este comando para que funcione tu git push
+git branch: Hace una nueva rama de tu función main inicial
+git switch:Te hace trasladarte a la rama que deseas, o a la ya creada y te pone en esa. (USAMOS GIT CHECKOUT PORQUE SWITCH
+NO FUNCIONA)
